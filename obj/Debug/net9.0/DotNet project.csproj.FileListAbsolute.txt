@@ -1,0 +1,14 @@
+C:\Users\Thrupthi\Desktop\DotNet project\bin\Debug\net9.0\DotNet project.exe
+C:\Users\Thrupthi\Desktop\DotNet project\bin\Debug\net9.0\DotNet project.deps.json
+C:\Users\Thrupthi\Desktop\DotNet project\bin\Debug\net9.0\DotNet project.runtimeconfig.json
+C:\Users\Thrupthi\Desktop\DotNet project\bin\Debug\net9.0\DotNet project.dll
+C:\Users\Thrupthi\Desktop\DotNet project\bin\Debug\net9.0\DotNet project.pdb
+C:\Users\Thrupthi\Desktop\DotNet project\obj\Debug\net9.0\DotNet project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thrupthi\Desktop\DotNet project\obj\Debug\net9.0\DotNet project.AssemblyInfoInputs.cache
+C:\Users\Thrupthi\Desktop\DotNet project\obj\Debug\net9.0\DotNet project.AssemblyInfo.cs
+C:\Users\Thrupthi\Desktop\DotNet project\obj\Debug\net9.0\DotNet project.csproj.CoreCompileInputs.cache
+C:\Users\Thrupthi\Desktop\DotNet project\obj\Debug\net9.0\DotNet project.dll
+C:\Users\Thrupthi\Desktop\DotNet project\obj\Debug\net9.0\refint\DotNet project.dll
+C:\Users\Thrupthi\Desktop\DotNet project\obj\Debug\net9.0\DotNet project.pdb
+C:\Users\Thrupthi\Desktop\DotNet project\obj\Debug\net9.0\DotNet project.genruntimeconfig.cache
+C:\Users\Thrupthi\Desktop\DotNet project\obj\Debug\net9.0\ref\DotNet project.dll

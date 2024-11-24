@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "tasks": [
+      {
+        "label": "build",                   // Task label matches "preLaunchTask" in launch.json
+        "type": "process",
+        "command": "dotnet",
+        "args": [
+          "build",
+          "${workspaceFolder}"              // Builds the project in the workspace folder
+        ],
+        "problemMatcher": "$msCompile",    // Maps build errors/warnings to the editor
+        "group": {
+          "kind": "build",                 // Groups it as a build task
+          "isDefault": true                // Marks it as the default build task
+        },
+        "detail": "Builds the .NET project"
+      }
+    ]
+  }
+  
